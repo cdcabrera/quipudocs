@@ -5,7 +5,7 @@
 SPHINXOPTS    =
 SPHINXBUILD   = sphinx-build
 SPHINXPROJ    = Quipucords
-SOURCEDIR     = source
+SOURCEDIR     = src/rst
 BUILDDIR      = build
 
 # Put it first so that "make" without argument is like "make help".
