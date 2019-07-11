@@ -1,5 +1,6 @@
 *
 !package.json
+!dist
 !dist/**/*
 !LICENSE
 !AUTHORS.rst
