@@ -27,6 +27,8 @@ exports[`Distribution should match a specific docs file output 1`] = `
 Array [
   "",
   "./docs/README.md",
+  "./docs/archive.html",
+  "./docs/archive/quipucords_docs_14nov2019*gz",
   "./docs/index.html",
   "./docs/install.html",
   "./docs/user.html",
