@@ -25,6 +25,7 @@ wheels/
 *.egg-info/
 .installed.cfg
 *.egg
+!docs/archive/
 
 # Sphinx documentation
 docs/_build/

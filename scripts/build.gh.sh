@@ -19,6 +19,7 @@ parseAsciidoc()
 ghPages()
 {
   parseAsciidoc ./src/community/titles/gh_pages ./docs/index.html
+  parseAsciidoc ./src/community/titles/gh_pages_archive ./docs/archive.html
   parseAsciidoc ./src/community/titles/install/qpc ./docs/install.html left
   parseAsciidoc ./src/community/titles/user/qpc ./docs/user.html left
 }

@@ -1,0 +1,26 @@
+// This assembly is included in the following assemblies:
+//
+
+ifdef::context[:parent-context: {context}]
+
+[id="assembly-landing-page-gh_pages_archive{context}"]
+
+:context: assembly-landing-page-gh_pages_archive-ctxt
+
+The documentation for {ProductNameShort} is periodically refreshed as schedules and resources permit.
+
+Currently only one previous refresh of the documentation is made available as a compressed file.
+
+The following link downloads a compressed file in `.tar.gz` format. This file contains the previous refresh of the {ProductNameShort} documentation.
+
+If you need to view the previous version of documentation, download and uncompress the following file in a directory of your choice. Then open the `index.html` file to view the documentation:
+
+++++
+<p>
+<a href="archive/quipucords_docs_14nov2019.tar.gz" download>Quipucords documentation archive 14nov2019</a>
+</p>
+++++
+
+// Restore the context to what it was before this assembly.
+ifdef::parent-context[:context: {parent-context}]
+ifndef::parent-context[:!context:]
